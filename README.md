@@ -1,6 +1,6 @@
 # Advanced data structures and C
 This is a program that uses data structures to read and sort files from a publicly available covid datasheet.
-Made in 2020 as an university assigment.
+Made in 2020 as a university assignment.
 Credit to Gerson for working with me on this.
 
 Instructions below
